@@ -34,7 +34,6 @@ Ces fiches rassemblent les notions fondamentales d'électricité utiles pour ré
 | [Générateurs](./g%C3%A9n%C3%A9rateurs.png) | Les sources de courant |
 | [Abréviation](./abr%C3%A9viation.png) | Les abréviations et symboles courants |
 
-> 📁 Les liens ci-dessus supposent que les fichiers se trouvent à la racine du dépôt. Si tu les ranges dans un sous-dossier (par exemple `fiches/` ou `assets/`), adapte les chemins en conséquence.
 
 ## 🖊️ Pourquoi le format sketchnote ?
 
@@ -52,7 +51,3 @@ Le sketchnote combine texte, hiérarchie visuelle et petits dessins pour :
 ## 🤝 Contribuer
 
 Des suggestions de fiches à ajouter ou des corrections sont les bienvenues — ouvre une issue ou une pull request.
-
-## 📄 Licence
-
-*(à préciser selon ton choix — MIT, CC BY-NC, etc.)*
