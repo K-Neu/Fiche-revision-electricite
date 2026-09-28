@@ -6,9 +6,14 @@ Une collection de fiches de révision sur les bases de l'électricité, réalis�
 
 Ces fiches rassemblent les notions fondamentales d'électricité utiles pour réviser rapidement avant un examen, une habilitation, ou tout simplement pour consolider ses bases. Chaque fiche traite d'un concept en une seule image, pensée pour être lue et comprise en quelques minutes.
 
+## 🆕 Dernière mise à jour — 28 septembre 2026
+
+La collection compte désormais **21 fiches de révision**. Cette mise à jour ajoute sept fiches : les câbles, les câbles encastrés, la mesure d'isolement, la loi de Pouillet, les résistances en série, les résistances en parallèle et les types de résistances.
+
 ## 🗂️ Contenu
 
 ### Grandeurs électriques de base
+
 | Fiche | Sujet |
 |---|---|
 | [Tension](./Tension.png) | La tension électrique (U) |
@@ -18,7 +23,17 @@ Ces fiches rassemblent les notions fondamentales d'électricité utiles pour ré
 | [Quantité](./Quantit%C3%A9.png) | La quantité d'électricité |
 | [AC - DC](./AC%20-%20DC.png) | Courant alternatif vs courant continu |
 
+### Résistances et associations
+
+| Fiche | Sujet |
+|---|---|
+| [Loi de Pouillet](./Pouillet.png) | La loi de Pouillet |
+| [Résistances en série](./Resistance%20en%20serie.png) | L'association de résistances en série |
+| [Résistances en parallèle](./Resistance%20en%20parall%C3%A8le.png) | L'association de résistances en parallèle |
+| [Types de résistances](./Resistances%20-%20les%20types.png) | Les différents types de résistances |
+
 ### Protection et sécurité
+
 | Fiche | Sujet |
 |---|---|
 | [Disjoncteurs](./Disjoncteurs.png) | Rôle et fonctionnement des disjoncteurs |
@@ -26,8 +41,17 @@ Ces fiches rassemblent les notions fondamentales d'électricité utiles pour ré
 | [Fusibles](./fusibles.png) | Les fusibles et leur rôle de protection |
 | [Court circuit](./Court%20circuit.png) | Qu'est-ce qu'un court-circuit |
 | [Prise de terre](./Prise%20de%20terre.png) | La mise à la terre et son importance |
+| [Mesure d'isolement](./Mesure%20d%27isolement.png) | La mesure de l'isolement électrique |
+
+### Câbles et installation
+
+| Fiche | Sujet |
+|---|---|
+| [Câbles](./cables.png) | Les câbles électriques |
+| [Câbles encastrés](./Cables%20encastre.png) | Les câbles en pose encastrée |
 
 ### Matériel et vocabulaire
+
 | Fiche | Sujet |
 |---|---|
 | [Conducteur](./conducteur.png) | Les conducteurs électriques |
